@@ -13,6 +13,9 @@
 - [ArgoCon US 2024](https://www.youtube.com/watch?v=3aeP__qPSms)
 
 ### K8s Certificates
+- [Kubestronaut](https://www.credly.com/badges/ffb895af-e315-403f-a446-729d1c8deda8)
 - [CKA](https://www.credly.com/badges/a8aa0bd0-6695-4870-9859-4fa1b0139296)
 - [CKAD](https://www.credly.com/badges/9e098bbf-c33e-40f6-88df-3482dc911cb4)
 - [CKS](https://www.credly.com/badges/7270abec-5226-499c-a25f-b9ddad29949f)
+- [KCSA](https://www.credly.com/badges/a203f5a6-534b-456e-9e15-73cb3c48718a)
+- [KCNA](https://www.credly.com/badges/c57a405b-a7ec-4e6d-a2d6-58294257cdfd)
