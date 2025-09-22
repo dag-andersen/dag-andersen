@@ -8,6 +8,8 @@
 </div>
 
 ### Tech Talks
+- [KubeCon US 2025](https://sched.co/27Fe4)
+- [Cloud Native Denmark 2025](https://cloudnativedenmark.dk/schedule/#956782)
 - [ArgoCon EU 2025](https://www.youtube.com/watch?v=foH5IGhUQoo)
 - [KCD Denmark 2024](https://www.youtube.com/watch?v=Cj9WyPsLxlk)
 - [ArgoCon US 2024](https://www.youtube.com/watch?v=3aeP__qPSms)
