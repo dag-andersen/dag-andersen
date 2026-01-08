@@ -8,7 +8,7 @@
 </div>
 
 ### Tech Talks
-- [ArgoCon EU 2025](https://sched.co/2DY8T)
+- [ArgoCon EU 2026](https://sched.co/2DY8T)
 - [KubeCon NA 2025](https://sched.co/27Fe4)
 - [Cloud Native Denmark 2025](https://cloudnativedenmark.dk/schedule/#956782)
 - [ArgoCon EU 2025](https://www.youtube.com/watch?v=foH5IGhUQoo)
