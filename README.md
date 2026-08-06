@@ -7,16 +7,23 @@
   </a>
 </div>
 
-### Tech Talks
-- [Mastering GitOps 2026](https://www.mastering-gitops.de/veranstaltung-88266-se-0-argo-cd-previewing-pull-request-changes-in-seconds.html)
-- [ArgoCon EU 2026](https://sched.co/2DY8T)
+## Tech Talks
+
+#### KubeCon
+- [KubeCon NA 2026](https://kubecon-cloudnativecon-north-america-2026.sessionize.com/session/1243844)
 - [KubeCon NA 2025](https://sched.co/27Fe4)
-- [Cloud Native Denmark 2025](https://cloudnativedenmark.dk/schedule/#956782)
+
+#### ArgoCon
+- [ArgoCon EU 2026](https://sched.co/2DY8T)
 - [ArgoCon EU 2025](https://www.youtube.com/watch?v=foH5IGhUQoo)
-- [KCD Denmark 2024](https://www.youtube.com/watch?v=Cj9WyPsLxlk)
 - [ArgoCon NA 2024](https://www.youtube.com/watch?v=3aeP__qPSms)
 
-### K8s Certificates
+#### Other
+- [Mastering GitOps 2026](talks/mastering-gitops-2026.md)
+- [Cloud Native Denmark 2025](https://www.youtube.com/watch?v=Cj9WyPsLxlk)
+- [KCD Denmark 2024](https://www.youtube.com/watch?v=Cj9WyPsLxlk)
+
+## K8s Certificates
 - [Kubestronaut](https://www.credly.com/badges/ffb895af-e315-403f-a446-729d1c8deda8)
 - [CKA](https://www.credly.com/badges/a8aa0bd0-6695-4870-9859-4fa1b0139296)
 - [CKAD](https://www.credly.com/badges/9e098bbf-c33e-40f6-88df-3482dc911cb4)
