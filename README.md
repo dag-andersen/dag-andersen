@@ -10,18 +10,19 @@
 ## Tech Talks
 
 #### KubeCon
-- [KubeCon NA 2026](https://kubecon-cloudnativecon-north-america-2026.sessionize.com/session/1243844)
-- [KubeCon NA 2025](https://sched.co/27Fe4)
+- [KubeCon NA 2026](https://kubecon-cloudnativecon-north-america-2026.sessionize.com/session/1243844) 🇺🇸
+- [KubeCon NA 2025](https://sched.co/27Fe4) 🇺🇸
 
 #### ArgoCon
-- [ArgoCon EU 2026](https://sched.co/2DY8T)
-- [ArgoCon EU 2025](https://www.youtube.com/watch?v=foH5IGhUQoo)
-- [ArgoCon NA 2024](https://www.youtube.com/watch?v=3aeP__qPSms)
+- [ArgoCon EU 2026](https://sched.co/2DY8T) 🇳🇱
+- [ArgoCon EU 2025](https://www.youtube.com/watch?v=foH5IGhUQoo) 🇬🇧
+- [ArgoCon NA 2024](https://www.youtube.com/watch?v=3aeP__qPSms) 🇺🇸
 
 #### Other
-- [Mastering GitOps 2026](talks/mastering-gitops-2026.md)
-- [Cloud Native Denmark 2025](https://www.youtube.com/watch?v=Cj9WyPsLxlk)
-- [KCD Denmark 2024](https://www.youtube.com/watch?v=Cj9WyPsLxlk)
+- [Dutch Cloud Native Day 2026](https://www.dutchcloudnativeday.nl/) 🇳🇱
+- [Mastering GitOps 2026](talks/mastering-gitops-2026.md) 🇩🇪
+- [Cloud Native Denmark 2025](https://www.youtube.com/watch?v=Cj9WyPsLxlk) 🇩🇰
+- [KCD Denmark 2024](https://www.youtube.com/watch?v=Cj9WyPsLxlk) 🇩🇰
 
 ## K8s Certificates
 - [Kubestronaut](https://www.credly.com/badges/ffb895af-e315-403f-a446-729d1c8deda8)
