@@ -19,6 +19,7 @@
 - [ArgoCon NA 2024](https://www.youtube.com/watch?v=3aeP__qPSms) 🇺🇸
 
 #### Other
+- [Maintainer Summit NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/features-add-ons/maintainer-summit/?id=1290421) 🇺🇸
 - [Dutch Cloud Native Day 2026](https://www.dutchcloudnativeday.nl/) 🇳🇱
 - [Mastering GitOps 2026](talks/mastering-gitops-2026.md) 🇩🇪
 - [Cloud Native Denmark 2025](https://www.youtube.com/watch?v=Cj9WyPsLxlk) 🇩🇰
